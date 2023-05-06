@@ -11,7 +11,7 @@ function App() {
         <Link className="site-logo" to="/">#VanLife</Link>
         <nav>
           <Link to="/">Home</Link>
-          <Link to="/about">Home</Link>
+          <Link to="/about">About</Link>
         </nav>
       </header>
         <Routes>
